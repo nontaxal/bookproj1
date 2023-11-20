@@ -1,0 +1,219 @@
+body{
+  text-align: center;
+  font-family: "Comic Sans", "Comic Sans MS";
+  color: #333;
+}
+  video{
+      text-align: center;
+  }
+.divbody{
+  background-color: #eee;
+  border: solid 1px #000;
+  margin: 0 0 10px 0;
+  padding: 10px;
+  position: relative;
+  width: 878px;
+  }
+  
+#Container {
+  margin: 0 auto;
+  width: 900px;
+}
+
+.nav a, .nav a:visited, .nav a:active {
+  color: White !important;
+  text-decoration: none;
+}
+
+a, a:visited, a:active {
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.nav {
+  clear: both;
+  background-color: #6e99c9;
+  border-bottom: solid 1px #000;
+  border-left: solid 1px #000;
+  border-right: solid 1px #000;
+  color: #fff;
+  font-size: 12pt;
+  font-weight: normal;
+  line-height: 2em;
+  text-decoration: none;
+}
+
+.MenuItem {
+  color: White;
+  font-size: 18px;
+  line-height: 2em;
+  font-family: "Comic Sans", "Comic Sans MS";
+}
+
+#head {
+  margin: 0 auto;
+  border-top: solid 1px #000;
+  color: White;
+  font: normal 12px/normal Verdana, sans-serif;
+    font-weight: normal;
+  font-weight: bold;
+  width: 900px;
+  text-align: center;
+}
+
+#banner {
+  background-image: url(//web.archive.org/web/20071125222036im_/http://www.roblox.com/images/banner2.png);
+  background-repeat: no-repeat;
+  border-bottom: solid 1px #000;
+  border-left: solid 1px #000;
+  border-right: solid 1px #000;
+  height: 72px;
+  text-align: center;
+}
+
+.novelogo{
+padding-top: 7px;
+}
+
+#filter{
+  float: left;
+  margin-right: 3px;
+  min-width: 0;
+  position: relative;
+}
+
+.game-thumb{
+  border: 1px solid #000;
+}
+
+#game-id {
+  font-size: 0.8em;
+  width: 163px;
+}
+
+.game-shit {
+  text-align: left;
+}
+
+.game-title {
+  font-size: 0.9em;
+  font-weight: bold;
+  line-height: 1.5em;
+  vertical-align: top;
+}
+
+.players{
+  color: Red;
+  font-weight: bold;
+}
+  
+a:link, a:visited, a:active {
+  color: Blue;
+}
+
+#place_place_panel{
+  float: left;
+  width: 490px;
+  margin-right: 10px;
+}
+
+#place_auth_panel {
+  float: left;
+  width: 200px;
+}
+
+#place_online_panel {
+  margin-top: 10px;
+  width: 700px;
+  clear: left;
+}
+
+#body {
+  margin: 10px 0;
+  width: 900px;
+}
+
+#user_contain #left {
+  float: left;
+  text-align: center;
+  width: 444px;
+}
+
+#user_contain #right {
+  float: right;
+  text-align: center;
+  width: 444px;
+}
+
+#profile_border {
+  border: solid 1px #000;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.online_user {
+  font-family: Verdana;
+  font-size: 8pt;
+  color: Red;
+}
+
+.panel h4 {
+  background-color: #ccc;
+  border-bottom: solid 1px #000;
+  color: #333;
+  margin: 0;
+  text-align: center;
+}
+
+.panel {
+  border: solid 1px #000;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #fff;
+  border: solid 1px #333;
+  color: #333;
+  font-family: Verdana, Sans-Serif;
+  font-size: 0.9em;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+}
+
+.Cata-item img {
+  border: 1px solid #000
+}
+
+.Cata-item{
+  width: 122px;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.Cata-Creater{
+  font-size: 10px;
+}
+
+.CataSelect{
+  font-family: Verdana, Sans-Serif;
+  float: left;
+  margin-right: 6px;
+}
+
+.CataSelect h2 {
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 1em;
+  letter-spacing: 5px;
+  margin: 0;
+}
+
+.CataSelect h4 {
+  font-weight: normal;
+}
